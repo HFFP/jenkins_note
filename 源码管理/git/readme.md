@@ -12,4 +12,5 @@
     
     
 ![Credentials](/config/Credentials.png)
+![Git](/config/git.png)
     
