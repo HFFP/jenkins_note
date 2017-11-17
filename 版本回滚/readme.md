@@ -37,7 +37,7 @@
 比如之前的脚本为:
 
     cd build/libs
-    java -jar test.jar
+    java -jar KotlinTest-1.0-SNAPSHOT.jar
 
 那么修改之后如下:
 
